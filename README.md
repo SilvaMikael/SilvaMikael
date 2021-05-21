@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**SilvaMikael/SilvaMikael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Mikael Silva. Estudante de Segurança da Informação e Big Data Inteligencia Analitica. 
 
-Here are some ideas to get you started:
+Possuo experiencia em desenvolvimento de projetos, como implementação de novos sitemas, exempro SAP e outro ERP, como tambem automatização de atividades, buscando ganho de tempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alem dos estudos academicos, venho buscando novos conhecimentos em programação:
+
+- CSS
+- HTML
+- Java Script
+- Python
+- SQl
+
+Aqui tem mais algumas informações:
+
+Linkedin: https://www.linkedin.com/in/mikaelcsilva/
+
+Curriculo: https://trampos.co/mikaelcsilva
+
+Intagram: @mikaelcsilva
