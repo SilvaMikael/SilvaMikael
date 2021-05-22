@@ -10,7 +10,7 @@ Alem dos estudos academicos, venho buscando novos conhecimentos em programação
 - HTML
 - Java Script
 - Python
-- SQl
+- SQL
 
 Aqui tem mais algumas informações:
 
