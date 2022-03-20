@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Mikael Silva. Estudante de Segurança da Informação e Big Data Inteligencia Analitica. 
+Me chamo Mikael Silva. Estudante de Segurança da Informação.
 
 Possuo experiencia em desenvolvimento de projetos, como implementação de novos sitemas, exempro SAP e outro ERP, como tambem automatização de atividades, buscando ganho de tempo.
 
