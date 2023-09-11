@@ -18,4 +18,4 @@ Linkedin: https://www.linkedin.com/in/mikaelcsilva/
 
 Curriculo: https://trampos.co/mikaelcsilva
 
-Intagram: @mikaelcsilva
+Instagram: @mikaelcsilva
